@@ -1,0 +1,21 @@
+{
+  "name": "Chronos",
+  "displayName": "Chronos",
+  "description": "Chronos color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chronos",
+        "uiTheme": "hc-black",
+        "path": "./themes/Chronos-color-theme.json"
+      }
+    ]
+  }
+}
